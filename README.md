@@ -1,18 +1,35 @@
-# Quartz v4
+---
+title: "Welcome To My Online Space"
+---
 
-> “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
+# 👋 Hello, I'm Jay
 
-Quartz is a set of tools that helps you publish your [digital garden](https://jzhao.xyz/posts/networked-thought) and notes as a website for free.
-Quartz v4 features a from-the-ground rewrite focusing on end-user extensibility and ease-of-use.
+Welcome to my online garden! I'm an penultimate year **software engineering and commerce student** who's passionate about **security**, **analytics**, and teaching others.
 
-🔗 Read the documentation and get started: https://quartz.jzhao.xyz/
+---
 
-[Join the Discord Community](https://discord.gg/cRFFHYye7t)
+## 🚀 About Me
+- **Software Engineering**: Skilled at adapting to new tech stacks and building reliable solutions.
+- **Security Focus**: Exploring the world of security topics and teaching cybersecurity practices to tertiary students.
+- **Marketing Analytics**: A strong interest in combining marketing and tech to draw data-driven insights.
 
-## Sponsors
+---
 
-<p align="center">
-  <a href="https://github.com/sponsors/jackyzha0">
-    <img src="https://cdn.jsdelivr.net/gh/jackyzha0/jackyzha0/sponsorkit/sponsors.svg" />
-  </a>
-</p>
+## 🛠 Featured Projects
+
+**Thesis: Automated Disease Table Detection and Extraction**  
+- Awarded *High Distinction* for research and development of a novel approach to automating tabular detection and extraction. 
+- Researched approaches to using neural networks for table detection, and developed an automated heuristic machine-learning solution for PDF table extraction from World Animal Health Information System (WAHIS) disease reports.
+
+[**Machine-Learning Classification for Phishing Domains**](Phishing%20Detection%20Using%20Machine-Learning.md)
+- Awarded *High Distinction* for development of a random forest-based machine-learning phishing detection model that detects fraudulent websites with a 99.6% accuracy.
+
+---
+
+## 📫 Get In Touch
+- **LinkedIn**: [linkedin.com/jay-patel](https://www.linkedin.com/in/jay-patel-50ab23166/)
+- **Email**: [jaysun2208@gmail.com](mailto:jaysun2208@gmail.com)
+
+---
+
+Thanks for stopping by and taking a look! Let's build something together :).
