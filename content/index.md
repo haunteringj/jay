@@ -26,6 +26,14 @@ Welcome to my online garden! I'm an penultimate year **software engineering and 
 
 ---
 
+## 📷 Outside of Work
+
+- Photography
+- Watch Making
+- Book Reviews
+
+---
+
 ## 📫 Get In Touch
 - **LinkedIn**: [linkedin.com/jay-patel](https://www.linkedin.com/in/jay-patel-50ab23166/)
 - **Email**: [jaysun2208@gmail.com](mailto:jaysun2208@gmail.com)

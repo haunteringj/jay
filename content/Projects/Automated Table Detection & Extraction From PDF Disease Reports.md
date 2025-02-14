@@ -1,3 +1,7 @@
+---
+title: Automated Table Detection & Extraction From PDF Disease Reports
+---
+
 ### Abstract
 
 PDF documents have become a widely used medium for distributing structured data due to their consistent formatting and compatibility across platforms. However, their inherent complexity poses significant challenges for automated data extraction, particularly for tabular data crucial for analysis. This thesis presents an **open-source tool** that automates the detection and extraction of animal disease data tables from **World Organisation for Animal Health (WOAH)** reports. This tool integrates with **EPIWATCH**, an artificial intelligence-driven epidemic early-warning system, enhancing its capacity to process critical data efficiently.

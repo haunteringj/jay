@@ -1,5 +1,8 @@
+---
+title: Phishing Detection Using Machine-Learning
+---
 
-This project aimed to develop a machine-learning algorithm capable of classifying phishing domains effectively. Combining research, implementation, and evaluation, it highlights key findings, challenges, and areas for future exploration. 
+This project aimed to develop a machine-learning algorithm capable of classifying phishing domains effectively. Combining research, implementation, and evaluation, it highlights key findings, challenges, and areas for future exploration.
 
 Below is a synthesised overview of the project.
 
@@ -65,10 +68,10 @@ Data preprocessing involved:
 
 The Random Forest Classifier delivered strong results:
 
-| Class           | Precision | Recall | F1-Score | Support |
-|-----------------|-----------|--------|----------|---------|
-| **Legitimate**  | 0.97      | 0.99   | 0.98     | 629     |
-| **Phishing**    | 1.00      | 1.00   | 1.00     | 5566    |
+| Class          | Precision | Recall | F1-Score | Support |
+| -------------- | --------- | ------ | -------- | ------- |
+| **Legitimate** | 0.97      | 0.99   | 0.98     | 629     |
+| **Phishing**   | 1.00      | 1.00   | 1.00     | 5566    |
 
 While the overall accuracy exceeded 99%, challenges included:
 
@@ -106,5 +109,6 @@ This project demonstrated the potential of machine learning to tackle phishing t
 
 ---
 
-## **Poster Preview**  
-![Project Poster](./assets/phishing_poster.png)  
+## **Poster Preview**
+
+![Project Poster](./assets/phishing_poster.png)
